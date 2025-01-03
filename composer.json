@@ -33,7 +33,7 @@
           "type": "vcs",
           "url": "https://github.com/ArjunSolanki023/zf-doctrine-hydration-module"
         }
-    },
+    ],
     "require": {
         "php": "^7.3 || ~8.1",
         "laminas-api-tools/api-tools": "^1.3",
